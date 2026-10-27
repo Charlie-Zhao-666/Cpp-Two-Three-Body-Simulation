@@ -1,0 +1,8 @@
+orbit
+*.o
+*.obj
+*.exe
+*.out
+*.ps
+*.png
+.DS_Store
